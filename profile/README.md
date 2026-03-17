@@ -8,12 +8,7 @@ Desenvolvimento de software sob medida para empresas — sistemas, APIs, automa�
 
 **Como trabalhamos**
 
-| # | Etapa | Descrição |
-|---|---|---|
-| 01 | **Análise** | Imersão no negócio, levantamento de requisitos e definição de escopo |
-| 02 | **Desenvolvimento** | Sprints iterativos com entregas parciais, feedback contínuo e qualidade |
-| 03 | **Entrega** | Deploy, testes, documentação e treinamento para sua equipe |
-| 04 | **Evolução** | Suporte, melhorias e novas funcionalidades de forma contínua |
+Cada projeto começa com uma imersão profunda no seu negócio — entendemos o problema antes de escrever qualquer linha de código. A partir daí, trabalhamos em sprints iterativos com entregas parciais e feedback contínuo, garantindo que o produto evolua na direção certa. Na entrega, cuidamos de tudo: deploy, testes, documentação e treinamento da sua equipe. E não paramos por aí — oferecemos suporte contínuo, melhorias e novas funcionalidades para que o software cresça junto com a sua empresa.
 
 ---
 
