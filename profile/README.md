@@ -1,4 +1,4 @@
-![Atlas Software SA](./atlas_banner_bw_tall.svg)
+<img src="./atlas_banner_bw_tall.svg" alt="Atlas Software SA" width="100%"/>
 
 ---
 
