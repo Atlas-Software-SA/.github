@@ -1,3 +1,7 @@
+![Atlas Software SA](./atlas_banner_bw_tall.svg)
+
+---
+
 # Atlas Softhouse
 
 Desenvolvimento de software sob medida para empresas — sistemas, APIs, automações e integrações.
@@ -11,16 +15,16 @@ Desenvolvimento de software sob medida para empresas — sistemas, APIs, automa�
 
 ## Stack
 
-Delphi · Lazarus · SQL · REST APIs · Web
+`Delphi` `Lazarus` `SQL` `REST APIs` `Web`
 
 ## Projetos
 
 | Repositório | Descrição |
 |---|---|
-| `atlas-api` | Backend e camada de serviços |
-| `atlas-web` | Base para aplicações web |
-| `atlas-core` | Bibliotecas internas compartilhadas |
+| [`atlas-api`](./atlas-api) | Backend e camada de serviços |
+| [`atlas-web`](./atlas-web) | Base para aplicações web |
+| [`atlas-core`](./atlas-core) | Bibliotecas internas compartilhadas |
 
 ## Contato
 
-contato@atlassofthouse.com
+📧 contato@atlassofthouse.com
